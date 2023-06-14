@@ -18,7 +18,6 @@ Prepare imagenet val set in same method as pytorch official classification [exam
     $ ln -s /path/to/imagenet/val ./imagenet/val
 ```
 
-## Train
 Pretraining and finetuning Command is [here](./dist_train.sh)
 
 
